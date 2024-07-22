@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kirill-baudzei
 - 👀 I’m interested in IT sphere, programming languages, AI, computer games, travelling.
-- 🌱 I’m currently learning Ruby / RoR / Unreal Engine 5/ Blender
-- 💞️ I’m looking to collaborate on learning Ruby
+- 🌱 I’m currently learning Ruby / RoR / JS / TS
+- 💞️ I’m looking to collaborate on learning.
   
 
 <!---
